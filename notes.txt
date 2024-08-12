@@ -1,0 +1,12 @@
+~~~~~~~~~~Currency Project~~~~~~~
+useEffect(()=>{callback},[dependencies array])
+
+Here the callback is a function that we call and the things are in thr bracket was all dependencies mean ki aagar kuch bhi change ho toh inpar depend karegah
+
+Learning
+1. How to call the API's
+2. How to make a custom hooks
+
+
+
+ 
