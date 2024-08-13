@@ -8,5 +8,8 @@ Learning
 2. How to make a custom hooks
 
 
+INPUT BOX -:
+
+we made a input box that takes two things one is  
 
  
